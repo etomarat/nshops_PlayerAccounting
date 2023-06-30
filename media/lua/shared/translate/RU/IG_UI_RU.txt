@@ -1,0 +1,9 @@
+IG_UI_RU = {
+    IGUI_Show_Accounting = "Финансовый отчет"
+    IGUI_Accounting_Withdraw = "Снятие: "
+    IGUI_Accounting_Deposit = "Пополнение: "
+    IGUI_Accounting_Transfer_Out = "Исходящий перевод для: "
+    IGUI_Accounting_Transfer_In = "Входящий перевод от: "
+    IGUI_Accounting_Linked_Wallet  = "Привязан кошелек "
+    IGUI_Accounting_Title  = "Отчетность: "
+}

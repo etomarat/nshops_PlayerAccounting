@@ -1,0 +1,5 @@
+name=PlayerAccounting
+poster=poster.png
+id=nshops_PlayerAccounting
+description=Show wallet accounting
+require=nshops

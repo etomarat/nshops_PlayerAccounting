@@ -1,0 +1,9 @@
+IG_UI_EN = {
+    IGUI_Show_Accounting = "Show Accounting"
+    IGUI_Accounting_Withdraw = "Withdraw: "
+    IGUI_Accounting_Deposit = "Deposit: "
+    IGUI_Accounting_Transfer_Out = "Outgoing transfer to: "
+    IGUI_Accounting_Transfer_In = "Incoming transfer from: "
+    IGUI_Accounting_Linked_Wallet  = "Linked wallet "
+    IGUI_Accounting_Title  = "Accounting: "
+}
